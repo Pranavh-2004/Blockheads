@@ -3,7 +3,7 @@
 ## Team
 Kshitij Koushik Kota - https://github.com/kshitijkota <br/>
 Pranav Hemanth - https://github.com/Pranavh-2004 <br/>
-Sampriti Saha - https://github.com/sampritisaha <br/>
+Sampriti Saha - https://github.com/Sampriti2803 <br/>
 Pranavjeet Naidu - https://github.com/Pranavjeet-Naidu <br/>
 
 The problem statement revolves around improving the election voting system by leveraging blockchain technology to enhance accessibility, transparency, and efficiency. Let's break down the solution and technical stack mentioned in detail:
